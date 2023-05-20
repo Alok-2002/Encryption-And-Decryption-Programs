@@ -19,7 +19,7 @@ To use the code in this repository, you need to have Python 3 installed on your 
 
 Once you have installed Python, you can clone this repository to your local machine using the following command:
 
-git clone https://github.com/<your-github-username>/Encryption-And-Decryption-Programs.git
+git clone https://github.com/alok-2002/Encryption-And-Decryption-Programs.git
 
 
  After cloning the repository, you need to install the required Python packages. You can do this by running the following command in the repository directory:
